@@ -1,0 +1,44 @@
+div{
+    width:100px;
+    height=100px;
+    background-color: brown;    
+}
+.heading1{
+  width:100px;
+  height: 100px;
+  background-color:red;
+  border-radius: 50%;
+  text-align: center;
+  align-items: center;
+}
+.heading2{
+    width:100px;
+    height: 100px;
+    background-color:green;
+    border-radius: 50%;
+    text-align: center;  
+  }
+  .heading3{
+    width:100px;
+    height: 100px;
+    background-color:yellow;
+    border-radius: 50%;
+    text-align: center;  
+  }
+  .heading4{
+    width:100px;
+    height: 50px;
+    background-color:black; 
+  }
+  .heading5{
+    
+    width:30px;
+    height: 400px;
+    background-color:black;
+   
+    text-align: center;
+    margin-left: 35px; 
+  }
+  h1{
+    text-align: center;
+  }
